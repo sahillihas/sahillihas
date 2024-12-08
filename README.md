@@ -99,7 +99,7 @@
 
   <h2 align="center">🤝 Connect With Me 🤝</h2>
   <div align = "center">
-    <a href="mailto:sahil.lihas@ymail.com" target="_blank">
+    <a href = "mailto:sahil.lihas@ymail.com" target="_blank">
     <img src="./mail.png" width=50 height=50 alt="sahil.lihas@ymail.com" style="margin-bottom: 5px;" />
     </a>
     <a href="https://x.com/MrSahilLihas" target="_blank">
