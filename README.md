@@ -1,7 +1,5 @@
 <h1 align="center"> Hello World ! 🚀</h1>
 
-###
-
   ## 👋 I'm Sahil
 
   <img align="right" src="https://camo.githubusercontent.com/e5f30d804f0ac2e6305662f39cea609bcf0f0d5714d57c0ca3c27f510d70ddf8/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34356463656236343037323364373234333663343237616464373936366366382e676966" alt="Welcome GIF" style="height: 200px; margin-left: 20px;">
@@ -100,13 +98,14 @@
 
 
   <h2 align="center">🤝 Connect With Me 🤝</h2>
+  <div align = "center">
     <a href="mailto:sahil.lihas@ymail.com" target="_blank">
     <img src="./mail.png" width=50 height=50 alt="sahil.lihas@ymail.com" style="margin-bottom: 5px;" />
     </a>
     <a href="https://x.com/MrSahilLihas" target="_blank">
       <img src="./twitter.png" width=50 height=50 alt="sahillihas" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.instagram.com/sahillihas" target="_blank">
+    <a href="https://www.instagram.com/sahil.lihas" target="_blank">
       <img src="./instagram.png" width=50 height=50 alt="insta" style="margin-bottom: 5px;" />
     </a>
     <a href="https://www.linkedin.com/in/sahillihas/" target="_blank">
@@ -116,7 +115,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=sahillihas&icon=5&color=3)](https://visitcount.itsvg.in" alt="sahilihas" style="padding-right:20px;" />
+    <img src="https://visitcount.itsvg.in/api?id=sahillihas&icon=5&color=0:00ff00,100:008000)](https://visitcount.itsvg.in" alt="sahilihas" style="padding-right:20px;" />
   </p>
 
   <p align="center">
