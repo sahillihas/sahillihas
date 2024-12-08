@@ -54,22 +54,71 @@
   ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&style=for-the-badge&logoColor=white)
   ![WB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
   ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-  
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=sahillihas&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
-  ## 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=sahillihas&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sahillihas&theme=gotham&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahillihas&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-  ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=sahillihas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ---
-  [![](https://visitcount.itsvg.in/api?id=sahillihas&icon=5&color=3)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
+  <h2 align="left">🏆 Github Trophies 🏆 </h2>
+  <p align="center">
+    <a href="https://github.com/sahillihas">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sahillihas&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=sahillihas&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+      </picture>
+    </a>
+  </p>
+  <br />
+
+  
+  <h2 align="center">📊 Github Stats 📊  </h2>
+
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/sahillihas">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahillihas&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+        <p align="center">
+          <a href="https://github.com/sahillihas">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillihas&theme=gotham&hide_border=false" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <br />
+
+  
+  <h2 align='center'>📝 Random Dev Quote 📝</h2>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko">
+  </p> 
+
+
+  <h2 align="center">🤝 Connect With Me 🤝</h2>
+    <a href="mailto:sahil.lihas@ymail.com" target="_blank">
+    <img src="./mail.png" width=50 height=50 alt="sahil.lihas@ymail.com" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://x.com/MrSahilLihas" target="_blank">
+      <img src="./twitter.png" width=50 height=50 alt="sahillihas" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.instagram.com/sahillihas" target="_blank">
+      <img src="./instagram.png" width=50 height=50 alt="insta" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/sahillihas/" target="_blank">
+      <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+    </a>
+  </div>
+  <br/>
+
+  <p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=sahillihas&icon=5&color=3)](https://visitcount.itsvg.in" alt="sahilihas" style="padding-right:20px;" />
+  </p>
+
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:008000&height=65&section=footer"/>
+  </p>
