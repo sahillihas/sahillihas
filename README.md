@@ -82,7 +82,7 @@
         <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <p align="center">
           <a href="https://github.com/sahillihas">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillihas&theme=gotham&hide_border=false" />
+            <img align="center" src="https://git-hub-streak-stats.vercel.app?user=sahillihas&theme=gotham" />
           </a>
         </p>
       </td>
