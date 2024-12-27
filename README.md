@@ -6,7 +6,7 @@
   
   - 🎓 IIT Madras scholar with expertise in Artificial Intelligence.  
   - 💼 Data Scientist pushing boundaries in Medical AI and NLP.  
-  - 📚 Published researcher in medical QA and ontology-driven models.  
+  - 📚 Published papers in medical QA and ontology-driven models.  
   - 🚀 Passionate about building intelligent, real-world solutions.  
 
     Let’s create something amazing together! 💻✨  
