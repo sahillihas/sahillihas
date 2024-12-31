@@ -115,7 +115,8 @@
   <br/>
 
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=sahillihas&icon=5&color=0:00ff00,100:008000)](https://visitcount.itsvg.in" alt="sahilihas" style="padding-right:20px;" />
+<!--     <img src="https://visitcount.itsvg.in/api?id=sahillihas&icon=5&color=0:00ff00,100:008000)](https://visitcount.itsvg.in" alt="sahilihas" style="padding-right:20px;" /> -->
+    <img src="https://komarev.com/ghpvc/?username=sahillihas&label=PROFILE+VIEWS" />
   </p>
 
   <p align="center">
