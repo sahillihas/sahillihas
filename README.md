@@ -17,17 +17,9 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,julia,mysql,sqlite,mongodb,flask,github,githubactions,linux,docker,vim,bash" /><br>
-      <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ai,graphql,anaconda,sklearn,elasticsearch,fastapi,pytorch,tensorflow,aws,gcp,azure" /><br>
+      <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ai,graphql,anaconda,sklearn,elasticsearch,fastapi,pytorch,tensorflow,aws,gcp,azure,pandas,numpy,llamaindex,langchain,huggingface" /><br>
     </a>
   </p>
-  
-  ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white)
-  ![WB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-  ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&style=for-the-badge&logoColor=white)
-  ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 
   <h2 align="left">🏆 Github Trophies 🏆 </h2>
