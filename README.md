@@ -17,7 +17,7 @@
   <p align="center">
     <a href="https://skillicons.dev">
       <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,python,julia,mysql,sqlite,mongodb,flask,github,githubactions,linux,docker,vim,bash" /><br>
-      <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=ai,graphql,anaconda,sklearn,elasticsearch,fastapi,pytorch,tensorflow,aws,gcp,azure,pandas,numpy,llamaindex,langchain,huggingface" /><br>
+      <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=graphql,anaconda,sklearn,elasticsearch,fastapi,pytorch,tensorflow,aws,gcp,azure,pandas,numpy,llamaindex,langchain,huggingface" /><br>
     </a>
   </p>
 
