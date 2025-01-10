@@ -7,7 +7,7 @@
   - 🎓 IIT Madras scholar with expertise in Artificial Intelligence.  
   - 💼 Data Scientist working in Medical AI and NLP.  
   - 📚 Published papers in Medical AI and ontology-driven models.  
-  - 🚀 Passionate about building intelligent, real-world AI solutions.  
+  - 🚀 Passionate about building intelligent and real-world AI solutions.
 
     Let’s create something amazing together! 💻✨  
 
