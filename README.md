@@ -1,4 +1,4 @@
-<h1 align="center">🚀  Hello World  🚀 </h1>
+<h1 align="center">🌎  Hello World  🌎 </h1>
 
   ## 👋 I'm Sahil, an AI/ML Researcher from IIT Madras !
 
