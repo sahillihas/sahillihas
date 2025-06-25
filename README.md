@@ -65,7 +65,7 @@
   </p> 
 
 
-  <h2 align="center">🤝 Connect with me 🤝</h2>
+  <h2 align="center">🤝 Let's Connect 🤝</h2>
   <div align = "center">
     <a href = "mailto:sahil.lihas@ymail.com" target="_blank">
     <img src="./mail.png" width=50 height=50 alt="sahil.lihas@ymail.com" style="margin-bottom: 5px;" />
